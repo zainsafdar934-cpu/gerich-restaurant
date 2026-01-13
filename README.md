@@ -42,7 +42,7 @@ A modern, elegant restaurant website built with React to showcase Gerich Restaur
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/gerich-restaurant.git
+   git clone https://github.com/zainsafdar934-cpu/gerich-restaurant.git
    cd gerich-restaurant
    ```
 
